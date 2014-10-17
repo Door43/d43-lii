@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lii:home|Door43 (lii)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lii|d43-lii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lii/archive/master.zip|d43-lii.zip]]
+
+**Recent Changes**
+{{changes>ns = lii}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lii|Ethnologue data]]
+
